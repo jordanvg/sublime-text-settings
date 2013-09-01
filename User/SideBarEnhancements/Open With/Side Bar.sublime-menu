@@ -1,0 +1,91 @@
+[
+  {"id": "side-bar-files-open-with",
+    "children":
+    [
+      // Terminal
+      {
+        "caption": "Terminal",
+        "id": "side-bar-files-open-with-terminal",
+
+        "command": "side_bar_files_open_with",
+        "args": {
+                  "paths": [],
+                  "application": "Terminal.app",
+                  "extensions":""
+                }
+      },
+      {"caption":"-"},
+      // Browsers
+      {
+        "caption": "Chrome",
+        "id": "side-bar-files-open-with-chrome",
+
+        "command": "side_bar_files_open_with",
+        "args": {
+                  "paths": [],
+                  "application": "Chrome.app",
+                  "extensions":"html"  //any file with these extensions
+                }
+      },
+      {
+        "caption": "Safari",
+        "id": "side-bar-files-open-with-safari",
+
+        "command": "side_bar_files_open_with",
+        "args": {
+                  "paths": [],
+                  "application": "Safari.app",
+                  "extensions":"html"  //any file with these extensions
+                }
+      },
+      {
+        "caption": "Firefox",
+        "id": "side-bar-files-open-with-firefox",
+
+        "command": "side_bar_files_open_with",
+        "args": {
+                  "paths": [],
+                  "application": "Firefox.app",
+                  "extensions":"html"  //any file with these extensions
+                }
+      },
+      {"caption":"-"},
+      // Preview
+      {
+        "caption": "Preview",
+        "id": "side-bar-files-open-with-preview",
+
+        "command": "side_bar_files_open_with",
+        "args": {
+                  "paths": [],
+                  "application": "Preview.app",
+                  "extensions":"psd|png|jpg|jpeg|gif"  //any file with these extensions
+                }
+      },
+      // Photoshop CS6
+      {
+        "caption": "Photoshop CS6",
+        "id": "side-bar-files-open-with-photoshop",
+
+        "command": "side_bar_files_open_with",
+        "args": {
+                  "paths": [],
+                  "application": "Adobe Photoshop CS6.app",
+                  "extensions":"psd|png|jpg|jpeg|gif"  //any file with these extensions
+                }
+      },
+      // Photoshop CS5
+      {
+        "caption": "Photoshop CS5",
+        "id": "side-bar-files-open-with-photoshop",
+
+        "command": "side_bar_files_open_with",
+        "args": {
+                  "paths": [],
+                  "application": "Adobe Photoshop CS5.app",
+                  "extensions":"psd|png|jpg|jpeg|gif"  //any file with these extensions
+                }
+      },
+    ]
+  }
+]

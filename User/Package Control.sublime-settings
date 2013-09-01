@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"ColorPicker",
+		"FileDiffs",
+		"Goto-CSS-Declaration",
+		"HTML5",
+		"HTMLAttributes",
+		"Jinja2",
+		"LESS",
+		"Markdown Preview",
+		"Placeholders",
+		"Pretty JSON",
+		"Python Auto-Complete",
+		"SCSS",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}
