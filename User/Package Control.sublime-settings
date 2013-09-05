@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"ChangeQuotes",
