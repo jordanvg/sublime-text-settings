@@ -1,4 +1,6 @@
 {
+	"anaconda_gutter_marks": true,
+	"anaconda_gutter_theme": "bright",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"highlight_line": true,
 	"ignored_packages":
