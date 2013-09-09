@@ -12,4 +12,3 @@ The following packages must be manually installed until they are
 added to the package manager with Sublime Text 3 support.
 
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements/tree/st3)
-* [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter/tree/sublime-text-3)
